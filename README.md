@@ -91,7 +91,7 @@ The summary statistics of the data set was displayed using this code:
   
 **Data Cleaning and Transformation**
 ---
-Based on my observations during the data exploration process, the dataframe was efficiently cleaned and transformed using pandas libraries. The steps are as follows:
+Based on my observations during the data assessment, the dataframe was efficiently cleaned and transformed using pandas libraries. The steps are as follows:
 * I changed date_x column datatype from object to datetime datatype using .astype() and specifying parameter as 'datetime64[ns]'
   ```
   Movies_clean["date_x"] = Movies_clean["date_x"].astype('datetime64[ns]')
