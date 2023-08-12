@@ -1,5 +1,6 @@
 # IMDb Movies Analysis Using Python
 
+!![imdb_image](https://github.com/olufar/imdb-analysis/assets/142104976/4dd830de-86db-4cd6-8586-4e374f38e8a8)
 
 
 **Overview**
