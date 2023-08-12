@@ -1,7 +1,6 @@
 # imdb-analysis
 
-# Data Analysis of IMDb dataset
-!![imdb](https://github.com/muyiwafarinde/imdb-movies-python-analysis/assets/19453673/c0f18227-bdee-499b-8a88-48b84e2dc46f)
+
 
 **Overview**
 ---
